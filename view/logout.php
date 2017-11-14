@@ -1,13 +1,8 @@
 <?php
 session_start();
-session_destroy();
+session_destroy();//se destruye la sesion del usuario
 ?>
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta charset="UTF-8">
@@ -15,6 +10,6 @@ and open the template in the editor.
     </head>
     <body>
         <h2>SESION TERMINADA</h2>
-        <a href="index.php">INICIO</a>
+        <a href="index.php">INICIO</a> //boton para volver a la pantalla de login
     </body>
 </html>

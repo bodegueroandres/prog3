@@ -1,4 +1,4 @@
-### Practica para Programación III
+## Practica para Programación III
 
 _Ejercicio resuelto y código para revisar_
 
@@ -6,5 +6,6 @@ _Ejercicio resuelto y código para revisar_
 - [x] Herencia
 - [ ] Validación
 - [ ] Formulario
-- [x] Redirección
+- [x] Autoformulario en todolist
+- [x] Comentarios
 
